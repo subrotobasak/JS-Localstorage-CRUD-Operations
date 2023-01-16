@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Area CSS */
+.header-area {
+    background-color: #2B3035;
+    border-top: 1px solid #555;
+}
+
+
+.header-area .navbar-brand{
+    color: #fff;
+    
+}
+
+.header-area .nav-link.active{
+    color: #fff;
+    
+}
+
+/* Main Area CSS */
+
+/* Add Product Area */
+
+.form-heading h2 {
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+.product-form button {
+    background-color: rgb(51, 51, 141);
+    color: #fff;
+    font-size: 18px;
+}
+
+/* Display Product Area */
+.product-area {
+    padding: 45px 0;
+}
+
+.product-area-heading h2 {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.single-product {
+    border: 1px solid #ededed;
+    padding: 10px;
+}
+
+.single-product img {
+    width: 100%;
+}
+
+.single-product h5 {
+    font-size: 18px;
+    margin-top: 10px 0;
+}
+
+.single-product h5 {
+font-size: 24px;
+margin-top: 10px;
+}
+
+
+/* Footer Area */
+
+.footer-area {
+    background-color: #2B3035;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 1px solid #555;
+
+}
+
+.footer-area p {
+    color: #fff;
+    margin-bottom: 0;
+}
